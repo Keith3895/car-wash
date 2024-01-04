@@ -16,13 +16,19 @@ Assets
 
 ### DevOps Design
 #### Code Repository Design
-![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---ZdEVEXtTAE9pSki-wqCRK---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
+The Application is split into two broad repositories:
+
+1. Car Wash backend
+This is a Python app written with Django.
+2. Car wash App
+This is a Flutter app created for both Android and iOS.
+![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---z8_UcUaRSSENEbZbxPale---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
 
 
 
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---xZ5hzNqzvlavzCpmfj_ma---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---2SXx_au6L3r2_4PlUs8ek---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
 #### Application Architecture
 ##### FrontEnd:
@@ -78,7 +84,7 @@ The backend will be written in Python using Django as the framework. The applica
 car_wash
 ├─ car_wash/ <-- main Django project
 ├─ carWash/
-├─ users/
+├─ authentication/. <-- local auth as well as socal auth
 ├─ orders/
 ├─ ratings/
 ├─ bookings/
