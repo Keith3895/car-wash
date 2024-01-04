@@ -18,17 +18,17 @@ Assets
 #### Code Repository Design
 The Application is split into two broad repositories:
 
-1. Car Wash backend
+1. Car Wash backend [﻿github.com/Keith3895/car-wash-backend-core](https://github.com/Keith3895/car-wash-backend-core)
 This is a Python app written with Django.
-2. Car wash App
+2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app)
 This is a Flutter app created for both Android and iOS.
-![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---z8_UcUaRSSENEbZbxPale---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
+![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---Sl3Q0E1gEK7Oh6sS8w2Kn---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
 
 
 
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---2SXx_au6L3r2_4PlUs8ek---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---f1vVuvzSHiXA8Y4LYX5-W---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
 #### Application Architecture
 ##### FrontEnd:
