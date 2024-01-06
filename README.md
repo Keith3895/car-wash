@@ -5,6 +5,7 @@
 
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/QbtwZGMvLuDpGXR2IcB7A3/Car-wash?type=design&node-id=0%3A1&mode=design&t=qFocsYZYrtYOIEyu-1)
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
 
 
 ## Table of Contents
