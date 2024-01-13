@@ -1,56 +1,42 @@
-# Car Wash 
-
 <p><a target="_blank" href="https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
+# Car Wash
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "")
 
-
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/QbtwZGMvLuDpGXR2IcB7A3/Car-wash?type=design&node-id=0%3A1&mode=design&t=qFocsYZYrtYOIEyu-1)
-![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
-
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green "")
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Assets](#assets)
-3. [DevOps Design](#devops-design)
-    1. [Code Repository Design](#code-repository-design)
-4. [Application Design](#application-design)
-    1. [DB Design](#db-design)
-    2. [Application Architecture](#application-architecture)
-        1. [FrontEnd](#frontend)
-        2. [Backend](#backend)
-5. [RoadMap](#roadmap)
-
-
+1. [﻿Introduction](#introduction) 
+2. [﻿Assets](#assets) 
+3. [﻿DevOps Design](#devops-design) 
+    1. [﻿Code Repository Design](#code-repository-design) 
+4. [﻿Application Design](#application-design) 
+    1. [﻿DB Design](#db-design) 
+    2. [﻿Application Architecture](#application-architecture) 
+        1. [﻿FrontEnd](#frontend) 
+        2. [﻿Backend](#backend) 
+5. [﻿RoadMap](#roadmap) 
 ### Introduction
 This is a car wash application that allows users to book car wash services from the comfort of their homes. The application will be available on both Android and iOS. The application will be written in Flutter and Django.
 
 ### Assets
-
-- UI Screens: [﻿link to Figma](https://www.figma.com/file/QbtwZGMvLuDpGXR2IcB7A3/Car-wash?type=design&node-id=0%3A1&mode=design&t=n68WTHlcaHpY86EO-1) 
+- UI Screens: [﻿link to Figma](https://www.figma.com/file/QbtwZGMvLuDpGXR2IcB7A3/Car-wash?type=design&node-id=0%3A1&mode=design&t=n68WTHlcaHpY86EO-1)  
 - Business model canvas: [﻿Link to BMC](https://app.mural.co/t/keithfranklin6506/m/keithfranklin6506/1699966821684/e68a321ade3318162db526e676f4d3042aea0be4?sender=ud754661bd71ca9e639dd5444) 
-
-
-
-
 ### DevOps Design
 #### Code Repository Design
 The Application is split into two broad repositories:
 
-1. Car Wash backend [﻿github.com/Keith3895/car-wash-backend-core](https://github.com/Keith3895/car-wash-backend-core)
+1. Car Wash backend [﻿github.com/Keith3895/car-wash-backend-core](https://github.com/Keith3895/car-wash-backend-core) 
 This is a Python app written with Django.
-2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app)
+2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app) 
 This is a Flutter app created for both Android and iOS.
-![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---Sl3Q0E1gEK7Oh6sS8w2Kn---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
-
-
-
+[﻿repo Design](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=34cwCizl3yFU2Wua60RqHA)  
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---f1vVuvzSHiXA8Y4LYX5-W---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+[﻿DB Design](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=xA0tEslogVhQjNqXsEwxyQ)  
 
-#### Application Architecture
+#### Application Architecture 
 ##### FrontEnd:
-
 The front end will be in a Flutter app. The source code structure will be:
 
 ```
@@ -92,27 +78,16 @@ car_wash
 ```
 The application will follow the bloc design pattern.
 
-
-
 ##### Backend:
-
 The backend will be written in Python using Django as the framework. The application architecture will be as follows:x
 
 ```
-
 car_wash
 ├─ car_wash/ <-- main Django project
 ├─ carWash/
 ├─ authentication/. <-- local auth as well as socal auth
-├─ orders/
-├─ ratings/
-├─ bookings/
-├─ services/
 └─ manage.py
-
 ```
-
-
 ### RoadMap
 ### User Flows and Transactions
 - [x] Authentication
@@ -130,9 +105,15 @@ car_wash
     - [ ] Payment
     - [ ] fulfilment
     - [ ] Post fulfilment
+
+
+### Process Flows
+1. User Onboarding
+[﻿User Onboarding flow](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=6OiPOHN-0O7lpb7hDrniPg)    
+2. Vendor KYC
+[﻿Vendor Verification Flow](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=ZuO3WRez81VvfTrLQx8IuQ) 
+
 ### 
-
-
 
 
 
