@@ -33,7 +33,7 @@ This is a Flutter app created for both Android and iOS.
 [﻿repo Design](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=34cwCizl3yFU2Wua60RqHA)  
 ### Application Design
 #### DB Design
-[﻿DB Design](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=xA0tEslogVhQjNqXsEwxyQ)  
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---ewUucs4xfhRT4wGGnBXlw---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
 #### Application Architecture 
 ##### FrontEnd:
@@ -109,9 +109,11 @@ car_wash
 
 ### Process Flows
 1. User Onboarding
-[﻿User Onboarding flow](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=6OiPOHN-0O7lpb7hDrniPg)    
+![User Onboarding flow](undefined "User Onboarding flow")
+
 2. Vendor KYC
-[﻿Vendor Verification Flow](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=ZuO3WRez81VvfTrLQx8IuQ) 
+
+![Vendor Verification Flow](undefined "Vendor Verification Flow")
 
 ### 
 
