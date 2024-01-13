@@ -2,6 +2,8 @@
 
 # Car Wash
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "")
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/2946907-927ed735-ae7c-40c9-b1f5-a84bea125eea?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D2946907-927ed735-ae7c-40c9-b1f5-a84bea125eea%26entityType%3Dcollection%26workspaceId%3Dabeb18d1-e63e-4176-ab79-ae8a9235f05e)
+
 
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green "")
 
