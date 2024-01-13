@@ -34,7 +34,7 @@ This is a Flutter app created for both Android and iOS.
 
 ### Application Design
 #### DB Design
-![DB Design](undefined "DB Design")
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---sX2-qn3mxunvCE0ZbK-xL---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
 #### Application Architecture 
 ##### FrontEnd:
