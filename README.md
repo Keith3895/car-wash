@@ -2,20 +2,20 @@
 
 # Car Wash
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "")
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/2946907-927ed735-ae7c-40c9-b1f5-a84bea125eea?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D2946907-927ed735-ae7c-40c9-b1f5-a84bea125eea%26entityType%3Dcollection%26workspaceId%3Dabeb18d1-e63e-4176-ab79-ae8a9235f05e)
 
+![Run in Postman](https://run.pstmn.io/button.svg "")
 
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green "")
 
 ## Table of Contents
-1. [﻿Introduction](#introduction) 
-2. [﻿Assets](#assets) 
-3. [﻿DevOps Design](#devops-design) 
+1. [﻿Introduction](#introduction)  
+2. [﻿Assets](#assets)  
+3. [﻿DevOps Design](#devops-design)  
     1. [﻿Code Repository Design](#code-repository-design) 
-4. [﻿Application Design](#application-design) 
-    1. [﻿DB Design](#db-design) 
-    2. [﻿Application Architecture](#application-architecture) 
-        1. [﻿FrontEnd](#frontend) 
+4. [﻿Application Design](#application-design)  
+    1. [﻿DB Design](#db-design)  
+    2. [﻿Application Architecture](#application-architecture)  
+        1. [﻿FrontEnd](#frontend)  
         2. [﻿Backend](#backend) 
 5. [﻿RoadMap](#roadmap) 
 ### Introduction
@@ -32,13 +32,15 @@ The Application is split into two broad repositories:
 This is a Python app written with Django.
 2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app) 
 This is a Flutter app created for both Android and iOS.
-![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---MnIxxjx5hfbvGWvT_W_IR---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
+![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---kuW8uRDZ4zWwWad5XFGU7---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
 
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---UgZZKWGp_bmEljvmoUVXA---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---A4FODe205gxKOUF6cvtjc---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
-#### Application Architecture 
+
+
+#### Application Architecture
 ##### FrontEnd:
 The front end will be in a Flutter app. The source code structure will be:
 
@@ -108,17 +110,13 @@ car_wash
     - [ ] Payment
     - [ ] fulfilment
     - [ ] Post fulfilment
-
-
 ### Process Flows
 1. User Onboarding
-![User Onboarding flow](undefined "User Onboarding flow")
-
-2. Vendor KYC
-
 ![Vendor Verification Flow](undefined "Vendor Verification Flow")
 
-### 
+1. Vendor KYC
+![User Onboarding flow](undefined "User Onboarding flow")
+
 
 
 
