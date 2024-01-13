@@ -30,10 +30,11 @@ The Application is split into two broad repositories:
 This is a Python app written with Django.
 2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app) 
 This is a Flutter app created for both Android and iOS.
-[﻿repo Design](https://app.eraser.io/workspace/8oFX0QJgi6REn7djyVf1?elements=34cwCizl3yFU2Wua60RqHA)  
+![repo Design](undefined "repo Design")
+
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---ewUucs4xfhRT4wGGnBXlw---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+![DB Design](undefined "DB Design")
 
 #### Application Architecture 
 ##### FrontEnd:
