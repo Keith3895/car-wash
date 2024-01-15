@@ -32,11 +32,11 @@ The Application is split into two broad repositories:
 This is a Python app written with Django.
 2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app) 
 This is a Flutter app created for both Android and iOS.
-![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---kuW8uRDZ4zWwWad5XFGU7---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
+![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---lTtK8LfgLeu4LMuEwROCC---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
 
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---A4FODe205gxKOUF6cvtjc---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---AsU8ACSP6BO2DhppiI7P9---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
 
 
@@ -117,6 +117,23 @@ car_wash
 1. Vendor KYC
 ![User Onboarding flow](undefined "User Onboarding flow")
 
+
+
+Service addons
+
+- Dust Cleaning
+- Panel Cleaning
+- Vacuum Interior
+- Tyres & Rims Cleaning 
+- Dashboard Cleaning & Polishing
+- AC vents cleaning
+- Paint Sealant
+- Mat Cleaning
+- Seat Vacuum & Polishing 
+- Exterior Shampooing
+- water wash 
+    - sub by car type 
+    - 
 
 
 
