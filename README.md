@@ -32,11 +32,11 @@ The Application is split into two broad repositories:
 This is a Python app written with Django.
 2. Car wash App [﻿github.com/Keith3895/car-wash-app](https://github.com/Keith3895/car-wash-app) 
 This is a Flutter app created for both Android and iOS.
-![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---lTtK8LfgLeu4LMuEwROCC---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
+![repo Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---hB06R2ijV41wFADTuQ-39---figure---34cwCizl3yFU2Wua60RqHA.png "repo Design")
 
 ### Application Design
 #### DB Design
-![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---AsU8ACSP6BO2DhppiI7P9---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
+![DB Design](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---EjHbG_UztodStKO7Kopao---figure---xA0tEslogVhQjNqXsEwxyQ.png "DB Design")
 
 
 
@@ -112,10 +112,10 @@ car_wash
     - [ ] Post fulfilment
 ### Process Flows
 1. User Onboarding
-![Vendor Verification Flow](undefined "Vendor Verification Flow")
+![Vendor Verification Flow](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---I1IrwcV7gCywvfHNJPvlT---figure---ZuO3WRez81VvfTrLQx8IuQ.png "Vendor Verification Flow")
 
 1. Vendor KYC
-![User Onboarding flow](undefined "User Onboarding flow")
+![User Onboarding flow](/.eraser/8oFX0QJgi6REn7djyVf1___PORIS31Fj9WgY3uyjxw5BwGFBqj2___---figure---0gAvcxrZ4TGrFN7MStsmI---figure---6OiPOHN-0O7lpb7hDrniPg.png "User Onboarding flow")
 
 
 
